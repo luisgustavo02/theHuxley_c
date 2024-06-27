@@ -1,7 +1,6 @@
+// https://thehuxley.com/problem/2?locale=pt_BR
+
 #include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
-#include<math.h>
 
 int main(){
     // CRIANDO AS TRES VARIAVEIS DE ENTRADA
