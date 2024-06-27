@@ -22,7 +22,7 @@ int main() {
 	    
 	    // CICLO DA SEQUENCIA
 	    int i;
-	    for(i=0; i<1000; i++){
+	    for(i=0; i<10; i++){
 	        // ENTRADA DO (i+1)-esimo NUMERO
 	        scanf(" %d", &num_sequencia);
 	        
