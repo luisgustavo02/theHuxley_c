@@ -1,3 +1,5 @@
+// https://thehuxley.com/problem/1087?locale=pt_BR
+
 #include<stdio.h>
 
 int main(){
